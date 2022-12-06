@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="121.181422">
+    <testcase classname="Flipkart" name="Flipkart add to cart" time="121.181422">
+        <system-out>
+            <![CDATA[Given user Launch The URL Of Flipkart.......................................passed
+When user Search Of TV Product..............................................passed
+And user Click On The First Product.........................................passed
+And user Print The Product price............................................passed
+And user Add The Product To Cart............................................passed
+And user Go To Cart Page And Increse The Quantity By One....................passed
+Then user Print The Price After Increasing The Quantity.....................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
